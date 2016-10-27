@@ -13,10 +13,10 @@
 #include <QScreen>
 #include "statemachine/splashstate.h"
 #include "application.h"
-#include "lessonwidget.h"
-#include "coursedelegate.h"
-#include "lessondelegate.h"
-#include "clickablesvgwidget.h"
+#include "course/coursedelegate.h"
+#include "lesson/lessonwidget.h"
+#include "lesson/lessondelegate.h"
+#include "utility-widgets/clickablesvgwidget.h"
 #include "ui_application.h"
 
 

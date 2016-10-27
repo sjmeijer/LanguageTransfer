@@ -12,8 +12,8 @@
 #include "databasemgr.h"
 #include "statemachine/applicationstatemachine.h"
 #include "statemachine/applicationstate.h"
-#include "courselistmodel.h"
-#include "lessonlistmodel.h"
+#include "course/courselistmodel.h"
+#include "lesson/lessonlistmodel.h"
 
 class ApplicationStateMachine;
 class ApplicationState;
