@@ -1,5 +1,5 @@
 #include <QFontDatabase>
-#include "databasemgr.h"
+#include "database/databasemgr.h"
 #include "coursewidget.h"
 #include "ui_coursewidget.h"
 

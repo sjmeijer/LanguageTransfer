@@ -2,7 +2,7 @@
 #define LESSONWIDGET_H
 
 #include <QWidget>
-#include "databasemgr.h"
+#include "database/databasemgr.h"
 
 namespace Ui
 {

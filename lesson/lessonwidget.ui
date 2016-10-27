@@ -143,12 +143,12 @@ border-bottom: 1px solid lightgray;
   <customwidget>
    <class>ClickableLabel</class>
    <extends>QLabel</extends>
-   <header>clickablelabel.h</header>
+   <header>utility-widgets/clickablelabel.h</header>
   </customwidget>
   <customwidget>
    <class>ClickableSvgWidget</class>
    <extends>QLabel</extends>
-   <header>clickablesvgwidget.h</header>
+   <header>utility-widgets/clickablesvgwidget.h</header>
   </customwidget>
  </customwidgets>
  <resources/>

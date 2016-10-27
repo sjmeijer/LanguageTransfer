@@ -9,7 +9,7 @@
 #include <QAction>
 #include <QMovie>
 #include <QMediaPlayer>
-#include "databasemgr.h"
+#include "database/databasemgr.h"
 #include "statemachine/applicationstatemachine.h"
 #include "statemachine/applicationstate.h"
 #include "course/courselistmodel.h"

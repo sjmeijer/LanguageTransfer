@@ -2,7 +2,7 @@
 #define COURSELISTMODEL_H
 
 #include <QAbstractListModel>
-#include "databasemgr.h"
+#include "database/databasemgr.h"
 
 class CourseListModel : public QAbstractListModel
 {

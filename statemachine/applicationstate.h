@@ -2,8 +2,8 @@
 #define APPLICATIONSTATE_H
 
 #include "state.h"
-#include "applicationhandler.h"
-#include "application.h"
+#include "application/applicationhandler.h"
+#include "application/application.h"
 
 class Application;
 

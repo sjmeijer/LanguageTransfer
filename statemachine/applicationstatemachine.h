@@ -1,9 +1,9 @@
 #ifndef APPLICATIONSTATEMACHINE_H
 #define APPLICATIONSTATEMACHINE_H
 
-#include "statemachine/statemachine.h"
-#include "application.h"
-#include "applicationhandler.h"
+#include "application/application.h"
+#include "application/applicationhandler.h"
+#include "statemachine.h"
 #include "applicationstate.h"
 
 class Application;
