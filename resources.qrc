@@ -1,34 +1,28 @@
 <RCC>
-    <qresource prefix="/images">
-        <file>LanguageTransferLogo.png</file>
-        <file>Options.png</file>
-        <file>play.png</file>
-        <file>pause.png</file>
-        <file>check.png</file>
-        <file>circle.png</file>
-        <file>BackArrow.png</file>
-        <file>Star Filled-24.png</file>
-        <file>Star-24.png</file>
-        <file>Note Filled-24.png</file>
-        <file>Play-24.png</file>
-        <file>Note-24.png</file>
-        <file>Bookmark Ribbon Filled-24.png</file>
-        <file>Bookmark Ribbon-24.png</file>
-        <file>arrow-left.svg</file>
-        <file>more-vertical.svg</file>
-        <file>bookmark-filled.svg</file>
-        <file>bookmark.svg</file>
-        <file>check-circle.svg</file>
-        <file>sticky-note-o.svg</file>
-        <file>sticky-note.svg</file>
-    </qresource>
-    <qresource prefix="/movies">
-        <file>gears.gif</file>
-    </qresource>
-    <qresource prefix="/fonts">
-        <file>Roboto-Regular.ttf</file>
-    </qresource>
-    <qresource prefix="/config">
+    <qresource prefix="">
+        <file>images/LanguageTransferLogo.png</file>
+        <file>images/Options.png</file>
+        <file>images/play.png</file>
+        <file>images/pause.png</file>
+        <file>images/check.png</file>
+        <file>images/circle.png</file>
+        <file>images/BackArrow.png</file>
+        <file>images/Star Filled-24.png</file>
+        <file>images/Star-24.png</file>
+        <file>images/Note Filled-24.png</file>
+        <file>images/Play-24.png</file>
+        <file>images/Note-24.png</file>
+        <file>images/Bookmark Ribbon Filled-24.png</file>
+        <file>images/Bookmark Ribbon-24.png</file>
+        <file>images/arrow-left.svg</file>
+        <file>images/more-vertical.svg</file>
+        <file>images/bookmark-filled.svg</file>
+        <file>images/bookmark.svg</file>
+        <file>images/check-circle.svg</file>
+        <file>images/sticky-note-o.svg</file>
+        <file>images/sticky-note.svg</file>
+        <file>movies/gears.gif</file>
+        <file>fonts/Roboto-Regular.ttf</file>
         <file>client_id.config</file>
     </qresource>
 </RCC>
