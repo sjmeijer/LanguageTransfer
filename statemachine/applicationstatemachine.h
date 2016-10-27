@@ -1,7 +1,7 @@
 #ifndef APPLICATIONSTATEMACHINE_H
 #define APPLICATIONSTATEMACHINE_H
 
-#include "statemachine.h"
+#include "statemachine/statemachine.h"
 #include "application.h"
 #include "applicationhandler.h"
 #include "applicationstate.h"

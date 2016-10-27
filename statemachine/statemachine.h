@@ -2,7 +2,7 @@
 #define STATEMACHINE_H
 
 
-#include "state.h"
+#include "statemachine/state.h"
 
 
 template <class TYPE>

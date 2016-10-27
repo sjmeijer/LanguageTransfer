@@ -11,7 +11,7 @@
 #include <QJsonObject>
 #include <QFontDatabase>
 #include <QScreen>
-#include "splashstate.h"
+#include "statemachine/splashstate.h"
 #include "application.h"
 #include "lessonwidget.h"
 #include "coursedelegate.h"
@@ -25,7 +25,7 @@ Application::Application(QWidget* parent) :
     QMainWindow(parent),
     ui(new Ui::Application),
     stateMachine(new ApplicationStateMachine(this)),
-    gearsMovie(new QMovie(":/movies/gears.gif")),
+    gearsMovie(new QMovie(":/images/gears.gif")),
     audioPlayer(new QMediaPlayer(this))
 {
     QFontDatabase fontDB;

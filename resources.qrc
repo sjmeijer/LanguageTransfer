@@ -21,7 +21,7 @@
         <file>images/check-circle.svg</file>
         <file>images/sticky-note-o.svg</file>
         <file>images/sticky-note.svg</file>
-        <file>movies/gears.gif</file>
+        <file>images/gears.gif</file>
         <file>fonts/Roboto-Regular.ttf</file>
         <file>client_id.config</file>
     </qresource>

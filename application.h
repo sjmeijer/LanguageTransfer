@@ -10,8 +10,8 @@
 #include <QMovie>
 #include <QMediaPlayer>
 #include "databasemgr.h"
-#include "applicationstatemachine.h"
-#include "applicationstate.h"
+#include "statemachine/applicationstatemachine.h"
+#include "statemachine/applicationstate.h"
 #include "courselistmodel.h"
 #include "lessonlistmodel.h"
 
